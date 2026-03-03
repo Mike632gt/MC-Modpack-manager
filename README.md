@@ -68,3 +68,4 @@ Todos los datos se guardan en **localStorage** del navegador — no se suben a n
 
 *Creado por Mike (@Mike632gt) · Licencia GPLv3*  
 *🐱 Con ayuda de Pocho y Arroz*
+
