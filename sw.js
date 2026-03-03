@@ -1,5 +1,5 @@
 // Modpack Manager v9.1 — Service Worker
-const CACHE = 'modpack-mgr-v9.1';
+const CACHE = 'modpack-mgr-v9.1.1';
 const ASSETS = [
   './index.html',
   './manifest.json',
